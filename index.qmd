@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.coquam/SWaller06
+      href: https://github.com/SWaller06
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/StaffordWaller
