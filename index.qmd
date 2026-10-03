@@ -1,0 +1,16 @@
+---
+title: "Stafford Waller"
+image: [stafford.headshot].jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/[SWaller06]
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/[StaffordWaller]
+    - icon: inboxes
+      text: Contact
+      href: mailto:[sw195@uark.edu]
+---
